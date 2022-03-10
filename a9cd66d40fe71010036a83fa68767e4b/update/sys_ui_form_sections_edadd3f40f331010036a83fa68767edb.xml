@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="edadd3f40f331010036a83fa68767edb" sys_domain="global" table="em_alert" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-09 17:08:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>adadd3f40f331010036a83fa68767ede</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="em_alert" name="em_alert" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">edadd3f40f331010036a83fa68767edb</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="em_alert" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">70db1f340f331010036a83fa68767ef6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-09 17:08:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-09 17:08:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29add3f40f331010036a83fa68767ef8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="em_alert" name="em_alert" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">edadd3f40f331010036a83fa68767edb</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="em_alert" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">a9add3f40f331010036a83fa68767ed9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-09 17:08:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-09 17:08:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61add3f40f331010036a83fa68767efc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="em_alert" name="em_alert" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">edadd3f40f331010036a83fa68767edb</sys_ui_form>
+            <sys_ui_section caption="Flapping" display_value="Flapping" name="em_alert" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">e1add3f40f331010036a83fa68767eda</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-09 17:08:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-09 17:08:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5add3f40f331010036a83fa68767eff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="em_alert" name="em_alert" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">edadd3f40f331010036a83fa68767edb</sys_ui_form>
+            <sys_ui_section caption="History" display_value="History" name="em_alert" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">e9add3f40f331010036a83fa68767eda</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-09 17:08:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-09 17:08:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61ad17f40f331010036a83fa68767e03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="em_alert" name="em_alert" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">edadd3f40f331010036a83fa68767edb</sys_ui_form>
+            <sys_ui_section caption="More Information" display_value="More Information" name="em_alert" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">e1add3f40f331010036a83fa68767edb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-09 17:08:54</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>em_alert</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-09 17:08:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>edadd3f40f331010036a83fa68767edb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>em_alert</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CWF Workspace Integrations" source="sn_cwf_ws_int">a9cd66d40fe71010036a83fa68767e4b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CWF Workspace Integrations">a9cd66d40fe71010036a83fa68767e4b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_edadd3f40f331010036a83fa68767edb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-09 17:08:54</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace UIB" name="workspace_uib">c7edb57b0fa31010036a83fa68767ec5</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

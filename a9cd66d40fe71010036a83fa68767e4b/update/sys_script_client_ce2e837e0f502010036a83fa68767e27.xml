@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>true</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>false</global>
+        <isolate_script>true</isolate_script>
+        <messages>{0} (Private)</messages>
+        <name>Modify Work notes Label</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+	var translatedMsg;
+	if (typeof GwtMessage !== "undefined") /* For the desktop UI */
+		translatedMsg = new GwtMessage().getMessage('{0} (Private)', g_form.getLabelOf('work_notes'));
+	else /* For agent workspace, service portal, angular mobile app */
+		translatedMsg = getMessage('{0} (Private)', g_form.getLabelOf('work_notes'));
+	
+	/* Do interpolation. For service portal and angular mobile app only. */
+	if (translatedMsg.withValues)
+		translatedMsg = translatedMsg.withValues([g_form.getLabelOf('work_notes')]);
+	
+	g_form.setLabelOf('work_notes', translatedMsg);
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-09 17:40:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ce2e837e0f502010036a83fa68767e27</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Modify Work notes Label</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CWF Workspace Integrations" source="sn_cwf_ws_int">a9cd66d40fe71010036a83fa68767e4b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CWF Workspace Integrations">a9cd66d40fe71010036a83fa68767e4b</sys_scope>
+        <sys_update_name>sys_script_client_ce2e837e0f502010036a83fa68767e27</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-09 17:40:36</sys_updated_on>
+        <table>task</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view>workspace_uib</view>
+    </sys_script_client>
+</record_update>

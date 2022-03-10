@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="incident" version="2" view="workspace_uib">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - Workspace UIB" name="incident" related_list="NULL" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">d757d2b70fe31010036a83fa68767eea</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>task_sla.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-06 09:27:54</sys_created_on>
+            <sys_id>5357d2b70fe31010036a83fa68767eeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-06 09:27:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - Workspace UIB" name="incident" related_list="NULL" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">d757d2b70fe31010036a83fa68767eea</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>task_ci.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-06 09:27:54</sys_created_on>
+            <sys_id>d757d2b70fe31010036a83fa68767eeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-06 09:27:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - Workspace UIB" name="incident" related_list="NULL" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">d757d2b70fe31010036a83fa68767eea</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>task_cmdb_ci_service.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-06 09:27:54</sys_created_on>
+            <sys_id>5f57d2b70fe31010036a83fa68767eeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-06 09:27:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - Workspace UIB" name="incident" related_list="NULL" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">d757d2b70fe31010036a83fa68767eea</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>task_service_offering.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-06 09:27:54</sys_created_on>
+            <sys_id>d357d2b70fe31010036a83fa68767eec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-06 09:27:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - Workspace UIB" name="incident" related_list="NULL" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">d757d2b70fe31010036a83fa68767eea</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>incident.parent_incident</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-06 09:27:54</sys_created_on>
+            <sys_id>5b57d2b70fe31010036a83fa68767eec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-06 09:27:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - Workspace UIB" name="incident" related_list="NULL" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">d757d2b70fe31010036a83fa68767eea</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>sc_request.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-06 09:27:54</sys_created_on>
+            <sys_id>df57d2b70fe31010036a83fa68767eec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-06 09:27:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - Workspace UIB" name="incident" related_list="NULL" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">d757d2b70fe31010036a83fa68767eea</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>task_outage.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-06 09:27:54</sys_created_on>
+            <sys_id>5757d2b70fe31010036a83fa68767eed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-06 09:27:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - Workspace UIB" name="incident" related_list="NULL" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">d757d2b70fe31010036a83fa68767eea</list_id>
+            <order_by/>
+            <position>7</position>
+            <related_list>kb_knowledge.source</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-06 09:27:54</sys_created_on>
+            <sys_id>db57d2b70fe31010036a83fa68767eed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-06 09:27:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - Workspace UIB" name="incident" related_list="NULL" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">d757d2b70fe31010036a83fa68767eea</list_id>
+            <order_by/>
+            <position>8</position>
+            <related_list>kb_feedback_task.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-06 09:27:54</sys_created_on>
+            <sys_id>5357d2b70fe31010036a83fa68767eee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-06 09:27:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - Workspace UIB" name="incident" related_list="NULL" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">d757d2b70fe31010036a83fa68767eea</list_id>
+            <order_by/>
+            <position>9</position>
+            <related_list>REL:9d7c170acba7330016e9582df8076d7d</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-06 09:27:54</sys_created_on>
+            <sys_id>d757d2b70fe31010036a83fa68767eee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-06 09:27:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Incident - Workspace UIB" name="incident" related_list="NULL" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">d757d2b70fe31010036a83fa68767eea</list_id>
+            <order_by/>
+            <position>10</position>
+            <related_list>interaction_related_record.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-06 09:27:54</sys_created_on>
+            <sys_id>5f57d2b70fe31010036a83fa68767eee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-06 09:27:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Incident - Workspace UIB</calculated_name>
+            <filter/>
+            <name>incident</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-06 09:27:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d757d2b70fe31010036a83fa68767eea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Incident - Workspace UIB</sys_name>
+            <sys_package display_value="CWF Workspace Integrations" source="sn_cwf_ws_int">a9cd66d40fe71010036a83fa68767e4b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CWF Workspace Integrations">a9cd66d40fe71010036a83fa68767e4b</sys_scope>
+            <sys_update_name>sys_ui_related_incident_workspace_uib</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-06 09:27:54</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace UIB" name="workspace_uib">c7edb57b0fa31010036a83fa68767ec5</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

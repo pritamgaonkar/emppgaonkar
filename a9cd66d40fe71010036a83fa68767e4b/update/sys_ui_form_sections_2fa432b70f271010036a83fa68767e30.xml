@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="2fa432b70f271010036a83fa68767e30" sys_domain="global" table="change_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-06 11:35:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e3a432b70f271010036a83fa68767e33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="change_request" name="change_request" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">2fa432b70f271010036a83fa68767e30</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="change_request" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">20e2b2770f271010036a83fa68767ef8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-06 11:35:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-06 11:35:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>23a432b70f271010036a83fa68767e4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="change_request" name="change_request" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">2fa432b70f271010036a83fa68767e30</sys_ui_form>
+            <sys_ui_section caption="Planning" display_value="Planning" name="change_request" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">efa432b70f271010036a83fa68767e2d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-06 11:35:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-06 11:35:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2ba432b70f271010036a83fa68767e50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="change_request" name="change_request" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">2fa432b70f271010036a83fa68767e30</sys_ui_form>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">6fa432b70f271010036a83fa68767e2e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-06 11:35:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-06 11:35:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3a432b70f271010036a83fa68767e54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="change_request" name="change_request" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">2fa432b70f271010036a83fa68767e30</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="change_request" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">eba432b70f271010036a83fa68767e2f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-06 11:35:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>change_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-06 11:35:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2fa432b70f271010036a83fa68767e30</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>change_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CWF Workspace Integrations" source="sn_cwf_ws_int">a9cd66d40fe71010036a83fa68767e4b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CWF Workspace Integrations">a9cd66d40fe71010036a83fa68767e4b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_2fa432b70f271010036a83fa68767e30</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-06 11:35:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace UIB" name="workspace_uib">c7edb57b0fa31010036a83fa68767ec5</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

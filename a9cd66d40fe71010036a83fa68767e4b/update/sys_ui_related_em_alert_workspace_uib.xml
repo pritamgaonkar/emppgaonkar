@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="em_alert" version="2" view="workspace_uib">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="em_alert - Workspace UIB" name="em_alert" related_list="NULL" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">cced5bf40f331010036a83fa68767e24</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>REL:f58a765f53601300cdbdddeeff7b1217</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-09 17:09:54</sys_created_on>
+            <sys_id>c4ed5bf40f331010036a83fa68767e25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-09 17:09:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="em_alert - Workspace UIB" name="em_alert" related_list="NULL" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">cced5bf40f331010036a83fa68767e24</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>em_alert.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-09 17:09:54</sys_created_on>
+            <sys_id>c8ed5bf40f331010036a83fa68767e25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-09 17:09:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="em_alert - Workspace UIB" name="em_alert" related_list="NULL" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">cced5bf40f331010036a83fa68767e24</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>em_event.alert</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-09 17:09:54</sys_created_on>
+            <sys_id>cced5bf40f331010036a83fa68767e25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-09 17:09:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="em_alert - Workspace UIB" name="em_alert" related_list="NULL" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">cced5bf40f331010036a83fa68767e24</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>em_alert_management_execution.alert</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-09 17:09:54</sys_created_on>
+            <sys_id>c0ed5bf40f331010036a83fa68767e26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-09 17:09:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="em_alert - Workspace UIB" name="em_alert" related_list="NULL" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">cced5bf40f331010036a83fa68767e24</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>em_remediation_task.alert</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-09 17:09:54</sys_created_on>
+            <sys_id>c4ed5bf40f331010036a83fa68767e26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-09 17:09:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="em_alert - Workspace UIB" name="em_alert" related_list="NULL" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">cced5bf40f331010036a83fa68767e24</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>REL:d99a2d6073843300473a8d396bf6a72e</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-09 17:09:54</sys_created_on>
+            <sys_id>c8ed5bf40f331010036a83fa68767e26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-09 17:09:54</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>em_alert - Workspace UIB</calculated_name>
+            <filter/>
+            <name>em_alert</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-09 17:09:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cced5bf40f331010036a83fa68767e24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Alert - Workspace UIB</sys_name>
+            <sys_package display_value="CWF Workspace Integrations" source="sn_cwf_ws_int">a9cd66d40fe71010036a83fa68767e4b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CWF Workspace Integrations">a9cd66d40fe71010036a83fa68767e4b</sys_scope>
+            <sys_update_name>sys_ui_related_em_alert_workspace_uib</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-09 17:09:54</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace UIB" name="workspace_uib">c7edb57b0fa31010036a83fa68767ec5</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

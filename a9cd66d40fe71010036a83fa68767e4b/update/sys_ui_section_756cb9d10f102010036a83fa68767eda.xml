@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Related Records" section_id="756cb9d10f102010036a83fa68767eda" sys_domain="global" table="incident" version="3" view="workspace_uib">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent_incident</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-04 19:52:24</sys_created_on>
+            <sys_id>fd6cf9d10f102010036a83fa68767e11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="incident" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">756cb9d10f102010036a83fa68767eda</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-04 19:52:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>problem_id</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-04 19:52:24</sys_created_on>
+            <sys_id>716cf9d10f102010036a83fa68767e12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="incident" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">756cb9d10f102010036a83fa68767eda</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-04 19:52:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-04 19:52:24</sys_created_on>
+            <sys_id>f16cf9d10f102010036a83fa68767e12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="incident" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">756cb9d10f102010036a83fa68767eda</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-04 19:52:24</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rfc</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-04 19:52:24</sys_created_on>
+            <sys_id>756cf9d10f102010036a83fa68767e12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="incident" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">756cb9d10f102010036a83fa68767eda</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-04 19:52:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>caused_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-04 19:52:24</sys_created_on>
+            <sys_id>f56cf9d10f102010036a83fa68767e12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="incident" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">756cb9d10f102010036a83fa68767eda</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-04 19:52:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Related Records</caption>
+            <header>false</header>
+            <name>incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-04 19:52:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>756cb9d10f102010036a83fa68767eda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CWF Workspace Integrations" source="sn_cwf_ws_int">a9cd66d40fe71010036a83fa68767e4b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CWF Workspace Integrations">a9cd66d40fe71010036a83fa68767e4b</sys_scope>
+            <sys_update_name>sys_ui_section_756cb9d10f102010036a83fa68767eda</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-04 19:52:23</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace UIB" name="workspace_uib">c7edb57b0fa31010036a83fa68767ec5</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

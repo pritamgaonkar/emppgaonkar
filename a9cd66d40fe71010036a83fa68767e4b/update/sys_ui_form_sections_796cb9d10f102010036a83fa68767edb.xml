@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="796cb9d10f102010036a83fa68767edb" sys_domain="global" table="incident" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-04 19:52:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>356cb9d10f102010036a83fa68767ede</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="incident" name="incident" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">796cb9d10f102010036a83fa68767edb</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">949a3d910f102010036a83fa68767ed8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-04 19:52:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-04 19:52:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>316cb9d10f102010036a83fa68767edf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="incident" name="incident" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">796cb9d10f102010036a83fa68767edb</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="incident" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">7d6cb9d10f102010036a83fa68767ed9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-04 19:52:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-04 19:52:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd6cb9d10f102010036a83fa68767eee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="incident" name="incident" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">796cb9d10f102010036a83fa68767edb</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="incident" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">756cb9d10f102010036a83fa68767eda</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-04 19:52:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-04 19:52:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b56cb9d10f102010036a83fa68767ef2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="incident" name="incident" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">796cb9d10f102010036a83fa68767edb</sys_ui_form>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="incident" sys_domain="global" view="c7edb57b0fa31010036a83fa68767ec5">7d6cb9d10f102010036a83fa68767eda</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-04 19:52:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-04 19:52:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>796cb9d10f102010036a83fa68767edb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CWF Workspace Integrations" source="sn_cwf_ws_int">a9cd66d40fe71010036a83fa68767e4b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CWF Workspace Integrations">a9cd66d40fe71010036a83fa68767e4b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_796cb9d10f102010036a83fa68767edb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-04 19:52:23</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace UIB" name="workspace_uib">c7edb57b0fa31010036a83fa68767ec5</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
